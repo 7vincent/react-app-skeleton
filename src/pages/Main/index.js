@@ -5,10 +5,7 @@ import { Title } from "./styles";
 export default function Main() {
   return (
     <div>
-      <Title error>
-        Meu Titulo
-        <p>Meu paragrafo.</p>
-      </Title>
+      <Title>Hello Word</Title>
     </div>
   );
 }
